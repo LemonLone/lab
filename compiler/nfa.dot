@@ -1,0 +1,1 @@
+digraph nfa {rankdir="LR";11->1 [label=<ε>];2->9 [label=<ε>];10->12 [label=<ε>];1->2 [label=<a>];9->7 [label=<ε>];9->10 [label=<ε>];8->10 [label=<ε>];8->7 [label=<ε>];7->3 [label=<ε>];7->5 [label=<ε>];4->8 [label=<ε>];6->8 [label=<ε>];3->4 [label=<b>];5->6 [label=<c>];}
