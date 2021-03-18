@@ -1,4 +1,4 @@
 
 void loader(void) {
-	while (1)
+	while (1) {}
 }
