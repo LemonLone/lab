@@ -50,7 +50,7 @@ spin:
 	jmp	spin
 
 gdt:
-	SEG_NULL
+	.long 0x0, 0x0
 	SEG(STA_X|STA_R, 0x0, 0xffffffff)
 	SEG(STA_W, 0x0, 0xffffffff)
 
